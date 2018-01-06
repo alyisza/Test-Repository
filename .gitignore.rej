@@ -1,0 +1,7 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -1,4 +0,4 @@
+-/[Ll]ibrary/
++[Ll]ibrary/
+ /[Tt]emp/
+ /[Oo]bj/
+ /[Bb]uild/
